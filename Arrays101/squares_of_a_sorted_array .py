@@ -1,3 +1,9 @@
+'''
+Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number,
+also in sorted non-decreasing order.
+'''
+
+
 from typing import List
 
 
@@ -9,4 +15,4 @@ class Solution:
 
 s = Solution()
 
-print(s.sortedSquares([-4, -5, 2, 3, 10]))
+print(s.sortedSquares([-4,-1,0,3,10]))

@@ -1,4 +1,9 @@
+'''
+Given a binary array, find the maximum number of consecutive 1s in this array.
+'''
+
 from typing import List
+
 
 # Given an array nums of integers, return how many of them contain an even number of digits.
 
